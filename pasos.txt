@@ -1,0 +1,5 @@
+paso 1.- En la ruta del directorio de interes con la sesión abierta, presionar el boton fork, el cual crea una copia en nuestro perfil de github
+paso 2.- Inicializar el repertorio en donde queremos alojar el proyecto
+paso 3.- usar un git clone desde nuestro repositorio
+paso 4.- trabajar en el proyecto clonado
+paso 5.- realizar commit y push 
